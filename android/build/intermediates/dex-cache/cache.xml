@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-4b85c9b70d1f9249c394e9a18ff2a09e6599b576.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-997c7f315ea717b84ed12432f5d5cd28c7c1e769.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-84497d6d22c5e020b1c9e190cf3d8eae973b49e7.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-df7fcdb5aa427b2c7c02215e58f48b16cc2b1037.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-91cc1dc113fe241b2b17ea9c428a8a6ffdd5e6d3.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-3e4e139afb85a7f3a66d17d3aa127a84d3f958d7.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-187a711a612be0646596c612d7dd988130257a9b.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-5eae00bdf4b4451e836d577dfe29cb3b7aa2d1ee.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-4f92dccb28eb0024dc2ebb91a5f0cc32830bc48a.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-ba2681afbf29d288a04f359343bbeebcafdaf0bc.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-1b637240c4530913aae686fcc8419d3e8e840c99.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-9f23061d0e1749bae5801164386c9f9b5d7af656.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-3ce747de08d10abe4ff82882c01a38c6558abab2.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-4d420b4f4f14b9972e9f8e726b65378e792e13aa.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-46c42ee295483ad00ffd7fdb1417c34687b14c30.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-ef074536015ad7c952e6fefaad8dd94df20a3ff1.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-5f34bd2b1ddda9201fac4698451444d18fc69355.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-33a1f94e26c6036c9f051eeb777bd7b5ba331376.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-45c49c52ad9eba6e8750a2ac6153a307ef4e2ce0.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-9c699ffff0f8dd531c277a76c7111b3a81775884.jar" />
+    </item>
+    <item
+        jar="/home/power/React_Projects/Comments/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/classes-65502550ff968d7b92efc3e745b1399ab948a850.jar" />
+    </item>
+    <item
+        jar="/home/power/adt-bundle-linux-x86_64-20130729/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-11e2bc3a4ee6458345e405c53d4ad21d4b1d2dd4.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-4d310a011e4cddee6d294b36e0762e260c8ade31.jar" />
+    </item>
+    <item
+        jar="/home/power/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/power/React_Projects/Comments/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-f719757d3f14c72800627834bf2564ef31907ed6.jar" />
+    </item>
+
+</items>
